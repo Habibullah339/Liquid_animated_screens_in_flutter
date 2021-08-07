@@ -1,6 +1,11 @@
 # animations
 
 A new Flutter project.
+<video width="320" height="240" controls>
+  <source src="https://github.com/Habibullah339/Liquid_animated_screens_in_flutter/blob/master/git%20animation.webm">
+  
+Your browser does not support the video tag.
+</video>
 
 ## Getting Started
 
