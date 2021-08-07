@@ -2,6 +2,7 @@
 
 A new Flutter project.
 ![Demo] (https://user-images.githubusercontent.com/73570477/128587045-b34fd07b-7d15-4542-8561-0809e0fc9a7f.gif)
+<img src="https://user-images.githubusercontent.com/73570477/128587045-b34fd07b-7d15-4542-8561-0809e0fc9a7f.gif">
 
 ## Getting Started
 
