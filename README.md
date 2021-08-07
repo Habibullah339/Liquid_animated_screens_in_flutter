@@ -1,9 +1,7 @@
 # animations
 
 A new Flutter project.
-<video>
-  <source src="https://github.com/Habibullah339/Liquid_animated_screens_in_flutter/blob/master/git%20animation.webm">
-</video>
+![Demo] (https://user-images.githubusercontent.com/73570477/128587045-b34fd07b-7d15-4542-8561-0809e0fc9a7f.gif)
 
 ## Getting Started
 
